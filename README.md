@@ -50,4 +50,4 @@ performs better in terms of accuracy and detection.
 
 ## Flow Diagram
 
-![Img: 1](https://github.com/Saikat-SS24/Disease_Detection_In_Rice_Leaves/blob/main/img1.png)
+![Img: 1](https://github.com/Saikat-SS24/Pneumonia_Detection/blob/main/Images/Img%201.png)
