@@ -48,6 +48,15 @@ and ResNet-50 four deep learning models are
 trained and at last, it will be checked which model
 performs better in terms of accuracy and detection.
 
+## Dataset
+
+```bash
+   https://universe.roboflow.com/mohamed-traore-2ekkp/chest-x-rays-qjmia
+```
+```bash
+   https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+```
+
 ## Flow Diagram
 
 ![Img: 1](https://github.com/Saikat-SS24/Pneumonia_Detection/blob/main/Images/Img%201.png)
